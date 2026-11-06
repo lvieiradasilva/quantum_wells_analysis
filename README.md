@@ -1,2 +1,2 @@
-# quantum_wells_analysis
-This was my Independent Work at Princeton University (Spring 2025) investigating the effects of growth temperature in intersubband transitions in quantum wells.
+# Effects of Growth Temperature on Intersubband Transitions in Quantum Wells
+This was my Independent Work at Princeton University (Spring 2025), investigating how growth temperature affects intersubband transitions in quantum wells.
